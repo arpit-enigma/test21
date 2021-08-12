@@ -5,7 +5,7 @@ metadata:
   description: No default description found. This is a CBRE Software Component, please\
     \ contact Dev team at given contact information.
   tags:
-  - not_detected
+  - not-detected
   devxstate: under-review
   rating:
   - user: some-user
